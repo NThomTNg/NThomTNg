@@ -1,16 +1,18 @@
-### Hi there 👋
+Hei sann, mitt navn er Nhan Thomas!
 
-<!--
-**NThomTNg/NThomTNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg er en student ved Universitetet ved Agder og tar en bachelor innen IT og informasjonssystemer. Som en person er jeg en med stor interesse innenfor utvikling og design av applikasjoner og brukergrensesnitt. Selv om hovedfokuset for nå er frontend så har jeg også interesse i å lære visse backend kunnskap, som databaser, SQL og ASP.NET. Akkurat nå er jeg på mitt 2nd år av studiet der jeg forsetter å lære det nødvendige kunnskapen for å bli en god og effektiv utvikler.
+Målet mitt er å bli en pålitelig og kunnskapsdyktig frontend utvikler, med en større mål å bli en fullstack utvikler. Utenfor skolen liker jeg å utfordre meg selv med å lære meg flere områder innenfor utvikling som bacheloren ikke dekker. 
 
-Here are some ideas to get you started:
+Ferdigheter og kunnskap:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML, CSS, Javascript, Java, C#, SQL
+
+ASP.NET, React, Vue.js
+
+- 🌱 Akkurat nå lærer jeg meg Javascript-rammeverker som React og Vue.js
+
+- 🔭 Prosjekter som jeg holder på med: Dynamisk web applikasjon med bruk av js-rammeverk, web applikasjon med bruk av API.
+
+- 📫 Kontakt informasjon: thomasn303@gmail.com, +47 90620256
+
+
