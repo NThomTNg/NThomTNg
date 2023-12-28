@@ -9,9 +9,9 @@ HTML, CSS, Javascript, Java, C#, SQL
 
 ASP.NET, React, Vue.js
 
-- 🌱 Akkurat nå lærer jeg meg Javascript-rammeverker som React og Vue.js
+- 🌱 Akkurat nå lærer jeg meg Javascript-rammeverker Vue.js og js-library React
 
-- 🔭 Prosjekter som jeg holder på med: Dynamisk web applikasjon med bruk av js-rammeverk, web applikasjon med bruk av API.
+- 🔭 Prosjekter som jeg holder på med: Dynamisk web applikasjon med bruk av js-rammeverk og library, web applikasjon med bruk av API.
 
 - 📫 Kontakt informasjon: thomasn303@gmail.com, +47 90620256
 
