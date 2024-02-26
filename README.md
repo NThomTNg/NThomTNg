@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhan Thomas</h1>
-<h3 align="center">I am a student at the University of Agder and take a bachelor's degree in IT and information systems. As a person, I have a great interest in the development and design of applications and user interfaces. Although the main focus for now is frontend, I am also interested in learning certain backend knowledge, such as databases, SQL and ASP.NET. Right now I am in my 2nd year of study where I continue to learn the necessary knowledge to become a good and efficient developer. My goal is to become a reliable and knowledgeable front-end developer, with a bigger goal to become a full-stack developer. Outside of school, I like to challenge myself by learning more areas within development that the bachelor's degree does not cover.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nthomtng" alt="nthomtng" /></a> </p>
+<h3 align="center">I am a student at the University of Agder and take a bachelor's degree in IT and information systems. I am a student at the University of Agder and take a bachelor's degree in IT and information systems. As a person, I have a great interest in the development and design of applications and user interfaces. Although the main focus for now is frontend, I am also interested in learning certain backend knowledge, such as databases, SQL and ASP.NET. Right now I am in my 2nd year of study where I continue to learn the necessary knowledge to become a good and efficient developer. My goal is to become a reliable and knowledgeable front-end developer, with a bigger goal to become a full-stack developer. Outside of school, I like to challenge myself by learning more areas within development that the bachelor's degree does not cover.</h3>
 
 - 🔭 I’m currently working on **react application**
 
@@ -21,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthomtng&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nthomtng" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nthomtng&show_icons=true&theme=tokyonight&locale=en" alt="nthomtng" /></p>
+
