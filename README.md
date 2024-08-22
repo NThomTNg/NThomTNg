@@ -8,9 +8,9 @@ Beyond my academic pursuits, I actively seek opportunities to broaden my underst
 
 - 🔭 I’m currently working on **react application**
 
-- 🌱 I’m currently learning **React, Vuejs, Nodejs, PostgreSQL**
+- 🌱 I’m currently learning **React, Nodejs, Azure Data Studio, Svelte**
 
-- 📫 How to reach me **thomasn303@gmail.com**
+- 📫 How to reach me **nt.thom.ng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
