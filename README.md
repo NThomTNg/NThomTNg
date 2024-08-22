@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhan Thomas</h1>
-<h3>I am currently a student pursuing a Bachelor's degree in IT and Information Systems at the University of Agder. My primary interests lie in application development and user interface design, particularly focusing on frontend technologies. However, I am also keen on expanding my knowledge in backend development, including databases, SQL, and ASP.NET.
+<h3>I am currently a student pursuing a Bachelor's degree in IT and Information Systems at the University of Agder. My primary interests lie in application development and user interface design, particularly focusing on frontend technologies. However, I am also keen on expanding my knowledge in backend development, including databases, SQL, and ASP.NET. <br>
 
 
 Currently in my third year of studies, I am dedicated to acquiring the necessary skills and knowledge to excel as a developer. My ultimate goal is to establish myself as a proficient and dependable frontend developer, with aspirations to eventually transition into a full-stack developer role.
