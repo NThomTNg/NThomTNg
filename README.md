@@ -4,8 +4,7 @@
 <br><br>
 Currently in my third year of studies, I am dedicated to acquiring the necessary skills and knowledge to excel as a developer. My ultimate goal is to establish myself as a proficient and dependable frontend developer, with aspirations to eventually transition into a full-stack developer role.
 
-<br>
-Beyond my academic pursuits, I actively seek opportunities to broaden my understanding of development areas not covered by my bachelor's degree. I enjoy challenging myself and delving into new areas within the field of development.</h3>
+
 
 - 🔭 I’m currently working on **react application**
 
