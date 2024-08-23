@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nhan Thomas</h1>
-I am currently a student pursuing a Bachelor's degree in IT and Information Systems at the University of Agder. My primary interests lie in application development and user interface design, particularly focusing on frontend technologies. However, I am also keen on expanding my knowledge in backend development so that I can become adept in fullstack development
+I am a student pursuing a Bachelor's degree in IT and Information Systems at the University of Agder (UIA). My primary interests lie in application development and user interface design, particularly on building applications and buidling systems for them.
 
 <br><br>
 Currently in my third year of studies, I am dedicated to acquiring the necessary skills and knowledge to excel as a developer. My ultimate goal is to establish myself as a proficient and dependable frontend developer, with aspirations to eventually transition into a full-stack developer role.
 <br>
 
-- 🔭 I’m currently working on **react application**
+- 🔭 I’m currently working on **a few projects and portfolio**
 
 - 🌱 I’m currently learning **React, Nodejs, Azure Data Studio, Svelte**
 
