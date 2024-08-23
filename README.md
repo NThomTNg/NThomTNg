@@ -19,6 +19,7 @@ Currently in my third year of studies, I am dedicated to acquiring the necessary
 </p>
 
 <h3 alignt="left">My skills:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,java,ts,react,svelte,postgres,mysql,azure,bootstrap,tailwind)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthomtng&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nthomtng" /></p>
