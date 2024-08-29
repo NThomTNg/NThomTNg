@@ -19,7 +19,7 @@ Currently in my third year of studies, I am dedicated to acquiring the necessary
 
 <h3 alignt="left">My skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,java,ts,react,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,,react,svelte)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,azure,docker,bootstrap,tailwind)](https://skillicons.dev)
 
