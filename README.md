@@ -5,7 +5,7 @@ Currently in my third year of studies, I am dedicated to acquiring the necessary
 
 - 🔭 I’m currently working on a few projects and my portfolio
 
-- 🌱 I’m currently learning **React, Nodejs, Azure Data Studio, Svelte**
+- 🌱 I’m currently learning **Azure Data Studio, Svelte, Next.js**
 
 - 📫 How to reach me **nt.thom.ng@gmail.com**
 
