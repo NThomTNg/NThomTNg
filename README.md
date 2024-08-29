@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhan Thomas</h1>
 I am a student pursuing a Bachelor's degree in IT and Information Systems at the University of Agder (UIA). My primary interests lie in application development and user interface design, particularly on building applications and buidling systems for them.
-
-<br><br>
 Currently in my third year of studies, I am dedicated to acquiring the necessary skills and knowledge to excel as a developer. My ultimate goal is to establish myself as a proficient and dependable frontend developer, with aspirations to eventually transition into a full-stack developer role.
 <br>
 
