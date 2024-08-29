@@ -21,7 +21,7 @@ Currently in my third year of studies, I am dedicated to acquiring the necessary
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,java,ts,react,svelte)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,azure,docker,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,azure,docker,bootstrap,tailwind)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthomtng&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nthomtng" /></p>
 
