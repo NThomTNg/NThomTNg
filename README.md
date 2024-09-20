@@ -3,11 +3,13 @@ I am a student pursuing a Bachelor's degree in IT and Information Systems at the
 Currently in my third year of studies, I am dedicated to acquiring the necessary skills and knowledge to excel as a developer. My ultimate goal is to establish myself as a proficient and dependable frontend developer, with aspirations to eventually transition into a full-stack developer role.
 <br>
 
-- 🔭 I’m currently working on a few projects and my portfolio
+- 🔭 I’m currently working as an Intern with Swipload
 
 - 🌱 I’m currently learning **Azure Data Studio, Svelte, Next.js**
 
 - 📫 How to reach me **nt.thom.ng@gmail.com**
+
+- 📃 Check out my portfolio at **https://thomportfolio.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
