@@ -5,7 +5,7 @@ Currently in my third year of studies, I am dedicated to acquiring the necessary
 
 - 🔭 I’m currently working as an Intern with Swipload
 
-- 🌱 I’m currently learning **Azure Data Studio, Svelte, Next.js**
+- 🌱 I’m currently learning **Svelte, Next.js**
 
 - 📫 How to reach me **nt.thom.ng@gmail.com**
 
