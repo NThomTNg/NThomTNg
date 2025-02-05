@@ -5,7 +5,7 @@ Currently in my third year of studies, I am dedicated to acquiring the necessary
 
 - 🔭 I’m currently working on my bachelor's thesis
 
-- 🌱 I’m currently learning **Svelte, Azure Databases**
+- 🌱 I’m currently learning **next.js, building a RAG AI bot with python**
 
 - 📫 How to reach me **nt.thom.ng@gmail.com**
 
