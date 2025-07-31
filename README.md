@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nhan Thomas</h1>
-My primary interests lie in application development and user interface design, particularly on building applications and buidling systems for them. Currently in my third year of studies, I am dedicated to acquiring the necessary skills and knowledge to excel as a developer. My ultimate goal is to establish myself as a proficient and dependable frontend developer, with aspirations to eventually transition into a full-stack developer role.
+My primary interests lie in application development and user interface design, particularly on building applications and buidling systems for them. Currently in my fourth year of studies, I am dedicated to acquiring the necessary skills and knowledge to excel as a developer. My ultimate goal is to establish myself as a proficient and dependable frontend developer, with aspirations to eventually transition into a full-stack developer role.
 <br>
 
-- 🌱 I’m currently learning **next.js, building a RAG AI bot with python**
+- 🌱 I’m building fun projects
 
 - 📫 How to reach me **nt.thom.ng@gmail.com**
 
