@@ -6,7 +6,7 @@ My primary interests lie in application development and user interface design, p
 
 - 📫 How to reach me **nt.thom.ng@gmail.com**
 
-- 📃 Check out my portfolio at **https://thomportfolio.vercel.app/**
+- 📃 Check out my portfolio at **https://www.thomasn.site/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
